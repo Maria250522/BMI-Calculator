@@ -1,0 +1,36 @@
+body, h1{
+    background-color: lightgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+}
+
+input{
+    margin: 10px;
+    height: 30px;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 18px;
+    border: none;
+}
+
+button {
+    background-color: #A68F97;
+    padding: 10px;
+    border-radius: 5px ;
+    border: none;
+    border-bottom: 10px;
+}
+
+.text, .text2 {
+    font-size: 20px;
+}
+
+.heading, .message, .bmi-output {
+    font-size: 20px;
+    padding: 0px;
+    margin: 5px;
+}
+
