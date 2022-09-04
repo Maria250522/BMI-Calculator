@@ -30,22 +30,3 @@ button.addEventListener('click', () => {
   }
 
 });
-
-
-
-
-
-
-// bmi = weight / (height * height)
-// final_bmi = round(bmi)
-
-// if final_bmi < 18.5:
-//   print(f"Your BMI is {final_bmi}, you are underweight.")
-// elif final_bmi > 18.5 and final_bmi < 25:
-//   print(f"Your BMI is {final_bmi}, you have a normal weight.")
-// elif final_bmi > 25 and final_bmi < 30:
-//   print(f"Your BMI is {final_bmi}, you are slightly overweight.")
-// elif final_bmi > 30 and final_bmi < 35:
-//   print("Your BMI is {final_bmi}, you are obese.")
-// else:
-//   print("Your BMI is {final_bmi}, you are clinically obese.")

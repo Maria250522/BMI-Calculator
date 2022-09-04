@@ -12,7 +12,7 @@ input{
     height: 30px;
     border-radius: 10px;
     padding: 5px;
-    font-size: 18px;
+    font-size: 16px;
     border: none;
 }
 
@@ -24,12 +24,8 @@ button {
     border-bottom: 10px;
 }
 
-.text, .text2 {
-    font-size: 20px;
-}
-
-.heading, .message, .bmi-output {
-    font-size: 20px;
+.text, .text2, .heading, .message, .bmi-output {
+    font-size: 22px;
     padding: 0px;
     margin: 5px;
 }
